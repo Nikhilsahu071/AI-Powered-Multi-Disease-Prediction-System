@@ -26,4 +26,3 @@ Health recommendations
 PDF report generation
 Clean and user-friendly interface...
 
-<p align="center"> <img src="screenshots/dashboard.png" alt="Dashboard Preview" width="900"> </p>
